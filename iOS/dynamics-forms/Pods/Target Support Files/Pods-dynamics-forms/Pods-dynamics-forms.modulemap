@@ -1,0 +1,6 @@
+framework module Pods_dynamics_forms {
+  umbrella header "Pods-dynamics-forms-umbrella.h"
+
+  export *
+  module * { export * }
+}
